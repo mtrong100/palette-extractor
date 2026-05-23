@@ -1,0 +1,41 @@
+{
+  "name": "Image Palette Extractor",
+  "short_name": "Palette",
+  "description": "Trích xuất bảng màu từ hình ảnh / Extract color palettes from images",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8F9FF",
+  "theme_color": "#1565C0",
+  "orientation": "any",
+  "lang": "vi",
+  "categories": ["utilities", "design"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Mở ứng dụng",
+      "short_name": "Mở",
+      "url": "/",
+      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}
